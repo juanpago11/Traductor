@@ -19,7 +19,7 @@ st.title("Akinator TRADUCTOR.")
 st.subheader("Adivino lo que quieres traducir.")
 
 
-image = Image.open('OIG7.jpg')
+image = Image.open('akinatore.png.webp')
 
 st.image(image,width=300)
 with st.sidebar:
